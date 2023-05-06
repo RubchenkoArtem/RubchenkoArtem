@@ -28,6 +28,11 @@
 
 ### :woman_technologist: About Me :
 I am, Beginner Frontend Developer with no work experience, but with a great desire to learn and discover a new stage in life.
+- :telescope: I am a beginner front-end developer and am currently in the process of learning a new profession.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-rubchenko-984b6a169/)
 
 
 
