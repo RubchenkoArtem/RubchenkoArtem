@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/I0e4u216Qhww8eRTVq/200w.webp?cid=ecf05e47tt929xugf95svji61mh9kprv89dmfu0976d9op3n&ep=v1_gifs_related&rid=200w.webp&ct=g" width="400"/>
+  <img src="https://media2.giphy.com/media/102h4wsmCG2s12/giphy.gif?cid=ecf05e47us0splbbscmjn59yfqpymd0i13k2l81jxlll0u1r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
 </div>
 
 
@@ -23,7 +23,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/lo5HLcAPFSgTZNTpAn/200w.webp?cid=ecf05e47p3vmndme5k4vnbvuq7peu92xojgn9zuwsn7t7ge0&ep=v1_gifs_search&rid=200w.webp&ct=g" width="600" height="300"/>
+  <img src="https://media2.giphy.com/media/NGh8Gp1M2hkqVEnuZW/giphy.gif?cid=ecf05e47c3ghwxbv6335w23a6ozhw5vcc0ply8mi7htwhafn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 ### :woman_technologist: About Me :
