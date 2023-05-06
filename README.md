@@ -27,4 +27,11 @@
 </div>
 
 ### :woman_technologist: About Me :
+I am, Beginner Frontend Developer with no work experience, but with a great desire to learn and discover a new stage in life.
+
+
+
+
+
+
 
