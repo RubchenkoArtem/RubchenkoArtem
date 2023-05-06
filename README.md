@@ -1,3 +1,5 @@
+###                                                         Welcome to my page.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/102h4wsmCG2s12/giphy.gif?cid=ecf05e47us0splbbscmjn59yfqpymd0i13k2l81jxlll0u1r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
 </div>
