@@ -4,8 +4,7 @@
 
 
 <div id="header" align="center">
-      <div align="right"> <img src="https://www.codewars.com/users/RubchenkoArtem/badges/large" alt=""/></div> 
-  <img src="https://media2.giphy.com/media/102h4wsmCG2s12/giphy.gif?cid=ecf05e47us0splbbscmjn59yfqpymd0i13k2l81jxlll0u1r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
+      <div align="right"> <img src="https://www.codewars.com/users/RubchenkoArtem/badges/large" alt=""/></div>                                                          <img src="https://media2.giphy.com/media/102h4wsmCG2s12/giphy.gif?cid=ecf05e47us0splbbscmjn59yfqpymd0i13k2l81jxlll0u1r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
 </div>
 
 
@@ -23,6 +22,8 @@
 </div>
 
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=RubchenkoArtem&style=flat-square&color=red" alt=""/></h2>
+
+<h4 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student" alt=""/>     
 
  <div align="center">
   <img src="https://media2.giphy.com/media/NGh8Gp1M2hkqVEnuZW/giphy.gif?cid=ecf05e47c3ghwxbv6335w23a6ozhw5vcc0ply8mi7htwhafn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
@@ -50,11 +51,12 @@ I am, Beginner Frontend Developer with no work experience, but with a great desi
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubchenkoArtem&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubchenkoArtem&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+    
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubchenkoArtem&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+      
+  [![trophy](https://github-profile-trophy.vercel.app/?username=RubchenkoArtem&theme=github_dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+  
  
 
  
