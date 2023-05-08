@@ -1,6 +1,10 @@
-<h1 align="center">                                                       Welcome to my page. </h1>
-<div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></div>
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Artem</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Belarusia 🇧🇾</h3>
+
+
 <div id="header" align="center">
+      <div align="right"> <img src="https://www.codewars.com/users/RubchenkoArtem/badges/large" alt=""/></div> 
   <img src="https://media2.giphy.com/media/102h4wsmCG2s12/giphy.gif?cid=ecf05e47us0splbbscmjn59yfqpymd0i13k2l81jxlll0u1r&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
 </div>
 
@@ -47,6 +51,11 @@ I am, Beginner Frontend Developer with no work experience, but with a great desi
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubchenkoArtem&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubchenkoArtem&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubchenkoArtem&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+ 
 
  
   
