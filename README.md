@@ -52,10 +52,7 @@ I am, Beginner Frontend Developer with no work experience, but with a great desi
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubchenkoArtem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  ### :writing_hand: Blog Posts :
-  <!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+ 
   
 
 
