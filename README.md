@@ -46,15 +46,19 @@ I am, Beginner Frontend Developer with no work experience, but with a great desi
   </div>
   
   ### :fire: My Stats :
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RubchenkoArtem&theme=github_dark&background=000000)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubchenkoArtem&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+      
+<p><img align="left" src="https://github-readme-stats-livid-eight-18.vercel.app/api/top-langs?username=RubchenkoArtem&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="RubchenkOArtem" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=RubchenkoArtem&theme=github_dark" alt"RubchenkoArtem">
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=RubchenkoArtem&theme=github_dark&background=000000" alt="RubchenkoArtem"></p>
 
     
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubchenkoArtem&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+        
+        
+        
+
       
-  [![trophy](https://github-profile-trophy.vercel.app/?username=RubchenkoArtem&theme=github_dark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 
   
  
