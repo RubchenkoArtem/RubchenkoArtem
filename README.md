@@ -47,6 +47,7 @@ I am, Beginner Frontend Developer with no work experience, but with a great desi
   <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" title="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/unityeditoricon_103179.png" title="Unity" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unreal_Engine_icon-icons.com_56587.png" title="Unreal Enngine" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Blender_23505.png" title="Blender" width="40" height="40"/>&nbsp;
   </div>
   
   ### :fire: My Stats :
