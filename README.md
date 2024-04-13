@@ -43,6 +43,10 @@ I am, Beginner Frontend Developer with no work experience, but with a great desi
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pycharm/pycharm-plain.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" title="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" title="C++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/unityeditoricon_103179.png" title="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unreal_Engine_icon-icons.com_56587.png" title="Unreal Enngine" width="40" height="40"/>&nbsp;
   </div>
   
   ### :fire: My Stats :
