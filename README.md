@@ -51,18 +51,11 @@ I am, Beginner Frontend Developer with no work experience, but with a great desi
   </div>
   
   ### :fire: My Stats :
-<div align="right"> 
-<p><img src="https://github-readme-stats.vercel.app/api?username=RubchenkoArtem&theme=github_dark" alt"RubchenkoArtem">
-<p><img src="http://github-readme-streak-stats.herokuapp.com?user=RubchenkoArtem&theme=github_dark&background=000000" alt="RubchenkoArtem"></p>
-</div>
+<p><img src="https://github-readme-stats.vercel.app/api?username=RubchenkoArtem&theme=github_dark" alt"RubchenkoArtem"><img src="http://github-readme-streak-stats.herokuapp.com?user=RubchenkoArtem&theme=github_dark&background=000000" alt="RubchenkoArtem"></p>
+
 
    ### 📜 My Certificate :
-<div align="center">
-<p><img src="https://sun9-78.userapi.com/impg/Lo3uF1FQHP4XGDGOl0OiqwkDMuP0i6_lltXdtQ/71f1W1uzkCk.jpg?size=1754x1238&quality=95&sign=27a49505f5c6712f0ced5d3f605660e5&type=album" weidth="300" height="300" alt="RubchenkoArtem"></p>
-<p><img src="https://sun9-8.userapi.com/impg/cRZSlASgCvpNCu0bMdift9VzMJv-ylf4NezXIw/7jXErFSiPnA.jpg?size=1754x1238&quality=95&sign=d9ca68219e1f4a4090f14df1ffd78fc4&type=album" weidth="300" height="300" alt="RubchenkoArtem"></p>
-<p><img src="https://sun9-18.userapi.com/impg/MMQNEcIv1776XnQj8wJ9HS38A_ktz1uSGZklTw/neHs6m4_fcc.jpg?size=1754x1238&quality=95&sign=354649c57f1a727b420d148955fbbc21&type=album"  weidth="300" height="300" alt="RubchenkoArtem"></p>
-<p><img src="https://sun9-67.userapi.com/impg/R3tX76vHmHCs0P4eowsZHSp4sq8-873Yw5Bb9w/9t3XZpQPnt0.jpg?size=1122x794&quality=95&sign=1754cc80511771e4126253eda66f1d07&type=album" weidth="300" height="300" alt="RubchenkoArtem"></p>
-</div>
+<p><img src="https://sun9-78.userapi.com/impg/Lo3uF1FQHP4XGDGOl0OiqwkDMuP0i6_lltXdtQ/71f1W1uzkCk.jpg?size=1754x1238&quality=95&sign=27a49505f5c6712f0ced5d3f605660e5&type=album" weidth="300" height="300" alt="RubchenkoArtem"><img src="https://sun9-8.userapi.com/impg/cRZSlASgCvpNCu0bMdift9VzMJv-ylf4NezXIw/7jXErFSiPnA.jpg?size=1754x1238&quality=95&sign=d9ca68219e1f4a4090f14df1ffd78fc4&type=album" weidth="300" height="300" alt="RubchenkoArtem"><img src="https://sun9-18.userapi.com/impg/MMQNEcIv1776XnQj8wJ9HS38A_ktz1uSGZklTw/neHs6m4_fcc.jpg?size=1754x1238&quality=95&sign=354649c57f1a727b420d148955fbbc21&type=album"  weidth="300" height="300" alt="RubchenkoArtem"><img src="https://sun9-67.userapi.com/impg/R3tX76vHmHCs0P4eowsZHSp4sq8-873Yw5Bb9w/9t3XZpQPnt0.jpg?size=1122x794&quality=95&sign=1754cc80511771e4126253eda66f1d07&type=album" weidth="300" height="300" alt="RubchenkoArtem"></p>
 
 
     
