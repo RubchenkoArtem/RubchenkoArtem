@@ -51,7 +51,7 @@ I am, Beginner Frontend Developer with no work experience, but with a great desi
   </div>
   
   ### :fire: My Stats :
-<p><img height="180" src="https://github-readme-stats.vercel.app/api?username=RubchenkoArtem&theme=github_dark" alt"RubchenkoArtem"><img height="180" src="http://github-readme-streak-stats.herokuapp.com?user=RubchenkoArtem&theme=github_dark&background=000000" alt="RubchenkoArtem"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=RubchenkoArtem&theme=github_dark" alt"RubchenkoArtem"><img src="http://github-readme-streak-stats.herokuapp.com?user=RubchenkoArtem&theme=github_dark&background=000000" alt="RubchenkoArtem"></p>
 
 
    ### 📜 My Certificate :
