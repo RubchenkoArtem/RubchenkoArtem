@@ -19,8 +19,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" target="_blank"/>
   </a>
   
+  
 </div>
-
+<h2 align="center"><a href="https://wakatime.com/@018bb850-4d72-40c6-84f4-369e5c4564c9"><img src="https://wakatime.com/badge/user/018bb850-4d72-40c6-84f4-369e5c4564c9.svg" alt="Total time coded since Nov 10 2023" /></a></h2>
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=RubchenkoArtem&style=flat-square&color=red" alt=""/></h2>
 
 <h4 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student" alt=""/>     
