@@ -72,6 +72,8 @@
 <img src="https://sun9-7.userapi.com/impg/AnRthji69bLXWldnmka9-nFw-UPqxvsfLc6Emw/qQl9bt-TgOE.jpg?size=2000x1410&quality=95&sign=41a0c67d3b5500ba202fd1e70b079d5c&type=album" height="180" alt="RubchenkoArtem">
 <img src="https://sun9-80.userapi.com/impg/Lk2hPdNRywvX7aOJxAI_9JLoapHRJ-e6hUpB7w/kMxB5FlsqgM.jpg?size=1754x1238&quality=95&sign=076a00f0912f3c288f3ef8523648c3e2&type=album" height="180" alt="RubchenkoArtem">
 <img src="https://sun9-21.userapi.com/impg/6kymWJT-7pBqbEOwDEpT0CaY6AJNSzReR3jx5Q/gJ6_MjkN8Y4.jpg?size=1754x1238&quality=95&sign=4eded30b77635e42a302375642b526fc&type=album" height="180" alt="RubchenkoArtem">
+<img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/14972a1c505fe153db614146c0080a57.png/s/300x/a/14696/sc/494  " height="180" alt="RubchenkoArtem">
+    
 </p>
 
 
