@@ -9,13 +9,13 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/artem-rubchenko-984b6a169/">
+  <a href="https://www.linkedin.com/in/artem-rubchenko-984b6a169/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCkAZEOYHvFxaI_Bz9OodhOg">
+  <a href="https://www.youtube.com/@leshiy_912" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" target="_blank"/>
   </a>
-  <a href="https://twitter.com/94Blackwalker">
+  <a href="https://twitter.com/94Blackwalker" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" target="_blank"/>
   </a>
   
