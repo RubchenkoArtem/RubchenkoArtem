@@ -30,19 +30,6 @@
   <img src="https://media2.giphy.com/media/NGh8Gp1M2hkqVEnuZW/giphy.gif?cid=ecf05e47c3ghwxbv6335w23a6ozhw5vcc0ply8mi7htwhafn&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
-
-- My name is Artem, I am 29 years old. I was born in the Republic of Belarus and currently live in the city of Vitebsk. I have a wonderful wife and two amazing children who fill my life with joy and inspiration.
-
-- My professional career focuses on web development and 3D graphics. I am passionate about creating modern, functional, and aesthetically pleasing web applications that can enhance the user experience. As Steve Jobs said, "Quality is more important than quantity. One home run is better than ten doubles." I strive for quality in my work and continuously learn new technologies and tools to stay at the forefront of this rapidly changing field. I enjoy solving complex problems and finding optimal solutions to realize clients' ideas.
-
-- In addition, I am actively involved in 3D graphics. Developing visually appealing 3D models is not only my job but also my hobby. I love experimenting with different styles and techniques to create unique and memorable visual effects. As Albert Einstein said, "Creativity is intelligence having fun." I try to apply this principle in my projects.
-
-- In my free time, I work on developing my skills by taking new courses and working on personal projects. I believe that continuous learning and practice are key to success in my profession. As Mahatma Gandhi said, "Be the change you wish to see in the world." I strive to be a positive example for my children and those around me.
-
-- I also value the time spent with my family and try to find a balance between work and personal life. This helps me stay motivated and inspired in both aspects of my life. As the Dalai Lama said, "Happiness is not something ready-made. It comes from your own actions."
-
-- If you are interested in learning more or discussing potential projects, feel free to reach out!
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
